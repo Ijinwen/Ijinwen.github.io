@@ -1,7 +1,7 @@
 ---
 title: 'Norm'
 date: 2024-6-23
-permalink: /posts/2024/06/Norm/
+permalink: /posts/2199-01-01-future-post.md
 ---
 
 # 范数 （norm）
