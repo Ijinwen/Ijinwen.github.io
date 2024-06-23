@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Wen Jin's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Wen Jin 
+name                     : &name "Wen Jin"
 description              : &description "personal description"
 url                      : https://Ijinwen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
