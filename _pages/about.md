@@ -1,3 +1,12 @@
+---
+peromalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
 # Welcome to My Homepage
 
 I am Wen Jin, an undergraduate student at School of Mathematics and Statistics, Ningbo University, majoring in Mathematics and Applied Mathematics (Actuarial Science and Risk Management). My academic and professional interests lie in numerical computation, compressed sensing and actuarial science. 
